@@ -1,0 +1,9 @@
+[TRACE] 2023-02-09 15:47:55.115 [main] log4jdemo - This is trace message
+[INFO ] 2023-02-09 15:47:55.118 [main] log4jdemo - This is an error message
+[WARN ] 2023-02-09 15:47:55.118 [main] log4jdemo - This is a warning message
+[ERROR] 2023-02-09 15:47:55.118 [main] log4jdemo - This is an error message
+[FATAL] 2023-02-09 15:47:55.118 [main] log4jdemo - This is fatal message
+[INFO ] 2023-02-09 15:48:40.081 [main] log4jdemo - This is an error message
+[WARN ] 2023-02-09 15:48:40.083 [main] log4jdemo - This is a warning message
+[ERROR] 2023-02-09 15:48:40.083 [main] log4jdemo - This is an error message
+[FATAL] 2023-02-09 15:48:40.083 [main] log4jdemo - This is fatal message
